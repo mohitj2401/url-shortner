@@ -14,16 +14,12 @@ The following tools were used in this project:
 
 
 
-## :white_check_mark: Sample Resume ##
-
-Before starting checkout sample :checkered_flag:, 
-
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
- git clone https://github.com/mohitj2401/simple-resume
+ git clone https://github.com/mohitj2401/url-shortner
 
 # Access
 cd simple-resume
